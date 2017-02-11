@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Assignment-02-shooting.unity
+  isLoaded: 1
+  isActive: 1
